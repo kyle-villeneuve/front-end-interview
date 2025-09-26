@@ -17,3 +17,7 @@ You'll be building a reusable data grid component in React with TypeScript. The 
 - Focus on core functionality first, then iterate
 - Don't worry about perfect styling - functionality is more important
 - Consider edge cases (empty data, missing properties, etc.)
+
+Datasets you can use
+
+https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries.json
